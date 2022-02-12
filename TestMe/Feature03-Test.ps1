@@ -9,8 +9,6 @@ function Add-TestMeAPIKey {
     )
 
     if ($Api_Key) {
-        $x_api_key = ConvertTo-SecureString $Api_Key -AsPlainText -Force
-
         Set-Variable -Name "TestMe_API_Key" -Value $x_api_key -Option ReadOnly -Scope global -Force
     }
     else {
@@ -32,8 +30,6 @@ function Add-TestMeAPIKeys {
     )
 
     if ($Api_Key) {
-        $x_api_key = ConvertTo-SecureString $Api_Key -AsPlainText -Force
-
         Set-Variable -Name "TestMe_API_Key" -Value $x_api_key -Option ReadOnly -Scope global -Force
     }
     else {
