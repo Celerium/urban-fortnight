@@ -18,6 +18,8 @@ assignees: Celerium
 - [ ] [MyITProcess Wiki](https://github.com/Celerium/MyITProcess-PowerShellWrapper/wiki)
 - [ ] `Get-Help Get-MyITProcess<RESOURCES-NAME> -Full`
 
+- [x] EXAMPLE
+
 ---
 
 ### **Is your request related to an issue? Please describe or link.**
