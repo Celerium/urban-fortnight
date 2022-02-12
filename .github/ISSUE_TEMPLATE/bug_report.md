@@ -7,20 +7,19 @@ assignees: ''
 
 ---
 
-### **Steps to reproduce`:`**
+### **Steps to reproduce:**
 
 Describe the steps to reproduce the issue.
 
-### **Actual behavior`:`**
+### **Actual behavior:**
 
 Describe the actual behavior
 
-### **Expected behavior`:`**
+### **Expected behavior:**
 
 A clear and concise description of what you expected to happen. Please include a screenshot if you can.
 
-### **Possible Solution`:`**
-<!--- Only if you have suggestions on a fix for the bug -->
+### **Possible Solution:**
 
 If you have suggestions on a fix for the bug, please describe it here.
 
@@ -32,7 +31,8 @@ Please share additional details about your environment.
 
 * PowerShell | MyITProcessAPI | Operating System
 
-```posh
+<!---
+
 $PSversionTable
 
 Get-Package -Name MyITProcessAPI | Select-Object Name,Version,Source,ProviderName
@@ -47,4 +47,4 @@ Get-ComputerInfo -Property @(
         'OsMuiLanguages'
     )
 
-```
+--->
