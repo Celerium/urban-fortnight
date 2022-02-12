@@ -2,7 +2,7 @@
 name: ":memo: Documentation Request"
 about: Suggest extra documentation for this project
 title: ''
-labels: ":memo: enhancement"
+labels: ":memo: documentation"
 assignees: Celerium
 
 ---
@@ -12,18 +12,20 @@ assignees: Celerium
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
+### **Is the information already documented**
 
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+- [ ] [MyITProcess ReadMe](https://github.com/Celerium/MyITProcess-PowerShellWrapper/blob/main/README.md)
+- [ ] [MyITProcess Wiki](https://github.com/Celerium/MyITProcess-PowerShellWrapper/wiki)
+- [ ] `Get-Help Get-MyITProcess<RESOURCES-NAME> -Full`
 
-**Describe the solution you'd like**
+---
 
-A clear and concise description of what you want to happen.
+### **Is your request related to an issue? Please describe or link.**
 
-**Describe alternatives you've considered**
+Issue: #12345
 
-A clear and concise description of any alternative solutions or features you've considered.
+Link: https://github.com/Celerium/MyITProcess-PowerShellWrapper/issues/1
 
-**Additional context**
+### **Describe the documentation you'd like to see**
 
-Add any other context or screenshots about the feature request here.
+A clear and concise description of what you want to happen. Ex. I would like to see...
