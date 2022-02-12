@@ -1,9 +1,9 @@
 ---
-name: "\U0001F41B Bug Report"
-about: "If something isn't working as expected \U0001F914."
+name: "\\U0001F41B Bug report"
+about: Create a report to help us improve
 title: ''
-labels: ''
-assignees: ''
+labels: bug
+assignees: Celerium
 
 ---
 
