@@ -2,7 +2,7 @@
 name: "\U0001f37b Help Request"
 about: What can the community help you with
 title: ''
-labels: ":beers:  helpwanted"
+labels: ":beers: help wanted"
 assignees: Celerium
 
 ---
