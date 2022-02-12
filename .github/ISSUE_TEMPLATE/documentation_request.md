@@ -1,5 +1,5 @@
 ---
-name: "\U0001F680 Documentation Request"
+name: ":memo: Documentation Request"
 about: Suggest extra documentation for this project
 title: ''
 labels: ":memo: enhancement"
