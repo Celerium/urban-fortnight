@@ -1,12 +1,3 @@
----
-name: "\U0001f3d7 Pull Request"
-about: Create a pull request
-title: ''
-labels: ":building_construction: Pull Request"
-assignees: Celerium
-
----
-
 ## Pull Request
 
 ---
