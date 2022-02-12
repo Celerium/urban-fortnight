@@ -2,7 +2,7 @@
 name: "\U0001F680 Feature Request"
 about: Suggest an idea for this project
 title: ''
-labels: enhancement
+labels: ":sparkler:  enhancement"
 assignees: Celerium
 
 ---
