@@ -7,6 +7,10 @@ assignees: Celerium
 
 ---
 
+## Bug Report
+
+---
+
 ### **Steps to reproduce:**
 
 Describe the steps to reproduce the issue.
