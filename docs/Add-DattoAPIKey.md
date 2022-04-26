@@ -1,4 +1,9 @@
-﻿---
+﻿layout: page
+title: "Add-DattoAPIKey"
+permalink: /Add-DattoAPIKey/
+
+
+---
 external help file: DattoAPI-help.xml
 Module Name: DattoAPI
 online version: https://github.com/Celerium/Datto-PowerShellWrapper
