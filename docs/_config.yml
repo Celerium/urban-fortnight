@@ -1,2 +1,17 @@
 remote_theme: just-the-docs/just-the-docs
 theme: jekyll-theme-cayman
+
+logo: "https://avatars.githubusercontent.com/u/18517307?s=400&u=7b940e944090c176784840acd522299769a43290&v=4"
+
+color_scheme: dark
+
+# Aux links for the upper right navigation
+aux_links:
+  "Celerium":
+    - "https://celerium.org/"
+  "GitHub":
+    - "https://github.com/Celerium/urban-fortnight"
+
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
