@@ -1,6 +1,6 @@
 ﻿{::comment}
     layout: page
-    title: "Add-DattoAPIKey"
+    title: Add-DattoAPIKey
     permalink: /Add-DattoAPIKey/
     external help file: DattoAPI-help.xml
     Module Name: DattoAPI

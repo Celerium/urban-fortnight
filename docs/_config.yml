@@ -14,3 +14,8 @@ aux_links:
     - "https://github.com/Celerium/urban-fortnight"
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
+
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
