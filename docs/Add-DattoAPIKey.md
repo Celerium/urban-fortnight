@@ -1,11 +1,13 @@
-﻿[//]: #    layout: page
-[//]: #    title: "Add-DattoAPIKey"
-[//]: #    permalink: /Add-DattoAPIKey/
-[//]: #    external help file: DattoAPI-help.xml
-[//]: #    Module Name: DattoAPI
-[//]: #    online version: https://github.com/Celerium/Datto-PowerShellWrapper
-[//]: #    https://portal.dattobackup.com/integrations/xml
-[//]: #    schema: 2.0.0
+﻿{::comment}
+    layout: page
+    title: "Add-DattoAPIKey"
+    permalink: /Add-DattoAPIKey/
+    external help file: DattoAPI-help.xml
+    Module Name: DattoAPI
+    online version: https://github.com/Celerium/Datto-PowerShellWrapper
+    https://portal.dattobackup.com/integrations/xml
+    schema: 2.0.0
+{:/comment}
 # Add-DattoAPIKey
 
 ## SYNOPSIS
