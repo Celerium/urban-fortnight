@@ -1,7 +1,7 @@
 remote_theme: just-the-docs/just-the-docs
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "https://avatars.githubusercontent.com/u/18517307?s=400&u=7b940e944090c176784840acd522299769a43290&v=4"
+#logo: "https://avatars.githubusercontent.com/u/18517307?s=400&u=7b940e944090c176784840acd522299769a43290&v=4"
 
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
